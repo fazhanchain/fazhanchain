@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=fazhanchain
+Comment=fazhanchain P2P Cryptocurrency
+Comment[fr]=fazhanchain, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=fazhanchain, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/fazhanchain-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/fazhanchain;
+Categories=Office;

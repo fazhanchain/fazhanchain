@@ -1,0 +1,2 @@
+debian/bin/fazhanchaind usr/bin
+src/fazhanchaind usr/lib/fazhanchain
